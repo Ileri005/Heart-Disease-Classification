@@ -1,4 +1,4 @@
-# 🏥 Heart Disease Classification: A Comparative Study
+# 🏥 Heart Disease Classification
 > **Focus:** Evaluating Binary Classification Performance and Feature Importance in Clinical Diagnostics.
 
 This project investigates the application of supervised machine learning to predict the presence of heart disease based on clinical parameters. The primary objective was to move beyond simple accuracy and focus on **model reliability** through comprehensive evaluation metrics like precision, recall, and F1-score.
